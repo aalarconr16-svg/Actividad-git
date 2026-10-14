@@ -1,0 +1,9 @@
+Objetivo general:
+
+Aprender a utilizar Git y GitHub.
+
+Objetivos específicos:
+
+Crear archivos, modificarlos y
+
+documentar los cambios realizados.
