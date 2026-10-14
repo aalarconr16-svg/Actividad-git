@@ -1,0 +1,7 @@
+Git permite llevar un registro de los
+
+cambios realizados en los archivos.
+
+GitHub facilita almacenar y consultar
+
+el historial del proyecto.
