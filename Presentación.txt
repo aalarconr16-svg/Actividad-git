@@ -1,0 +1,7 @@
+Actividad práctica de Git y GitHub.
+
+El objetivo es aprender a crear archivos,
+
+modificarlos y registrar los cambios
+
+mediante comandos básicos de Git.
