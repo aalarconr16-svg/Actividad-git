@@ -6,3 +6,4 @@ modificarlos y registrar los cambios
 
 mediante comandos básicos de Git.
 Está actividad permite practicar el control de versiones 
+Modificación realizada utilizando GitHub Codespaces.
