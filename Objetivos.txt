@@ -7,3 +7,4 @@ Objetivos específicos:
 Crear archivos, modificarlos y
 
 documentar los cambios realizados.
+Se registra una segunda modificación para practicar Git.
